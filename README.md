@@ -20,7 +20,7 @@ This Python script visualizes bike routes and calculates the shortest path betwe
 
 ## Getting Started
 
-- **Install Python and Libraries**: Ensure Python is installed along with osmnx, networkx, matplotlib, shapely, and geopandas.
+- **Install Python and Libraries**: Ensure Python is installed along with osmnx, networkx, matplotlib, shapely, scikit-learn,and geopandas.
 - **Download and Modify**: Download the script, make your customizations, and run it in your environment.
 - **Explore**: Experiment with different settings to explore various routes and networks.
 
@@ -49,7 +49,7 @@ This script is for educational and planning purposes and should not be solely re
 
 ## 开始使用
 
-- **安装Python和库**：确保安装了Python以及osmnx、networkx、matplotlib、shapely和geopandas库。
+- **安装Python和库**：确保安装了Python以及osmnx、networkx、matplotlib、shapely、scikit-learn和geopandas库。
 - **下载和修改**：下载脚本，进行自定义修改后，在您的环境中运行。
 - **探索**：尝试不同的设置，以探索各种路线和网络。
 
@@ -79,7 +79,7 @@ This script is for educational and planning purposes and should not be solely re
 
 ＃＃ はじめる
 
-- **Python とライブラリをインストール**: Python が osmnx、networkx、matplotlib、shapely、および geopandas とともにインストールされていることを確認します。
+- **Python とライブラリをインストール**: Python が osmnx、networkx、matplotlib、shapely、scikit-learnおよび geopandas とともにインストールされていることを確認します。
 - **ダウンロードして変更**: スクリプトをダウンロードし、カスタマイズして、環境で実行します。
 - **探索**: さまざまな設定を試して、さまざまなルートとネットワークを探索します。
 
